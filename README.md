@@ -51,6 +51,3 @@ We welcome contributions from the community! If you'd like to contribute to Asce
 3. Push to the branch: `git push origin feature-name`
 4. Submit a pull request outlining your changes.
 
-## License
-
-Ascend is licensed under the [
