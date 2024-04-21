@@ -9,7 +9,6 @@ Ascend is a decentralized social platform and cross-chain xNFT marketplace that 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
