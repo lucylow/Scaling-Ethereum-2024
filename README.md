@@ -1,4 +1,4 @@
-#  Ascend: Cross-Chain xNFT Marketplace forTokenized Social Assets 
+#  Ascend: Cross-Chain xNFT Marketplace for Tokenized Social Assets 
 
 Ascend is a decentralized social platform and cross-chain xNFT marketplace that empowers users to tokenize their social assets and engage with a global audience on the blockchain.
 
